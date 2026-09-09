@@ -45,7 +45,7 @@ Apesar do alto Recall, o modelo apresentou uma quantidade elevada de falsos posi
 - Scikit-learn
 - Jupyter Notebook
 
-## 📁 Estrutura do projeto
+## Estrutura do projeto
 
 ```text
 fraud-transaction-analysis/
