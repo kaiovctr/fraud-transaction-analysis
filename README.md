@@ -52,10 +52,6 @@ fraud-transaction-analysis/
 │
 ├── notebooks/
 │   └── fraud_analysis.ipynb
-│
-├── src/
-│   └── main.py
-│
 ├── .gitignore
 ├── LICENSE
 ├── README.md
